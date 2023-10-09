@@ -1,0 +1,1 @@
+"During my one-month internship with the CODSOFT team from September 10th to October 10th, I thoroughly enjoyed the engaging and educational tasks assigned to me, which significantly contributed to my experience and proficiency in web development."
