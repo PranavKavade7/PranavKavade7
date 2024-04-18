@@ -1,8 +1,6 @@
-Hi 👋, I'm Uday Sharma
+Hi 👋, I'm Pranav Kavade
 A Passionate Full Stack Developer From India
 coding
-
-udaysharmadev
 
 🔭 I have Worked at CODSOFT AS Front-end Engineer
 
@@ -12,6 +10,4 @@ udaysharmadev
 
 📫 How to reach me pranavkavade777@gmail.com
 
-⚡ Fun fact I'm a vlogger with 59k subscribers on YouTube!
-
-Connect with me:
+Connect with me: www.linkedin.com/in/pranav-kavade
